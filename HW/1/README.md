@@ -98,27 +98,51 @@ answer here
 
 **Bus Topology (6 marks)**
 ```
-Describe:
+Describe:A bus topology is a type of network setup where each computer and network device is connected to a single cable
 
 Advantages:
+1)  It is easy to set-up and extend bus network.
+2)  Cable length required for this topology is the least compared to other networks.
+3)  Bus topology costs very less.
 
 Disadvantages:
+1)  There is a limit on central cable length and number of nodes that can be connected.
+2)  Dependency on central cable in this topology has its disadvantages.If the main cable (i.e. bus ) encounters   some problem, whole network breaks down. 
+3)  It is not suitable for networks with heavy traffic. 
+
+
+
+Keep Reading : http://www.ianswer4u.com/2011/05/bus-topology-advantages-and.html#ixzz36KA17ZiX 
+Under Creative Commons License: Attribution Non-Commercial Share Alike 
+Follow us: ianswer4u on Facebook
 ```
 
 **Ring Topology (6 marks)**
 ```
-Describe:
+Describe:A local-area network (LAN) whose topology is a ring. That is, all of the nodes are connected in a closed loop.
 
 Advantages:
+1)   There is no need for network server to control the connectivity between workstations.
+2)   Additional components do not affect the performance of network.
+3)   Each computer has equal access to resources.
 
 Disadvantages:
-```
+1)Each packet of data must pass through all the computers between source and destination. This makes it slower than Star topology.
+2)   If one workstation or port goes down, the entire network gets affected.
+3)   Network is highly dependent on the wire which connects different components. 
+
 
 **Star Topology (6 marks)**
 ```
-Describe:
+Describe:Alternatively referred to as a star network, a star topology is one of the most common network setups where each of the devices and computers on a network connect to a central hub.
 
 Advantages:
-
+1)Easy to connect new nodes or devices. In star topology new nodes can be added easily without affecting rest of the network.
+2)Failure of one node or link doesn’t affect the rest of network
+3)As compared to Bus topology it gives far much better performance
 Disadvantages:
-```
+1)  Too much dependency on central device has its own drawbacks. If it fails whole network goes down.
+2)  The use of hub, a router or a switch as central device increases the overall cost of the network.
+3)   Performance and as well number of nodes which can be added in such topology is depended on capacity of central device.
+
+
